@@ -1,8 +1,9 @@
 import React from "react";
+import './Buy.css'
 
 function Buy({ products }) {
   return (
-    <div className="container mt-4">
+    <div className="buySection container mt-4">
       <h2 className="text-center mb-4">Available Products</h2>
       <div className="row g-4">
         {products.length > 0 ? (

@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from './images/logo.png';
 import './Footer.css'
+import logo from './images/logo.png';
 
 export default function () {
   return (
