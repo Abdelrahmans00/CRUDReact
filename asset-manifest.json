@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Abdelrahmans00/CRUDReact.git/static/css/main.659ca188.css",
-    "main.js": "/Abdelrahmans00/CRUDReact.git/static/js/main.15980a15.js",
-    "static/js/488.2a760981.chunk.js": "/Abdelrahmans00/CRUDReact.git/static/js/488.2a760981.chunk.js",
-    "static/media/andres-jasso-PqbL_mxmaUE-unsplash.jpg": "/Abdelrahmans00/CRUDReact.git/static/media/andres-jasso-PqbL_mxmaUE-unsplash.525c2379a1e0f669b152.jpg",
-    "static/media/mohammad-metri-E-0ON3VGrBc-unsplash.jpg": "/Abdelrahmans00/CRUDReact.git/static/media/mohammad-metri-E-0ON3VGrBc-unsplash.60b6a209f60f7d207cb4.jpg",
-    "static/media/Screenshot 2024-12-26 180221.png": "/Abdelrahmans00/CRUDReact.git/static/media/Screenshot 2024-12-26 180221.23f5dd290d57c33c7fb6.png",
-    "static/media/banner-1.png": "/Abdelrahmans00/CRUDReact.git/static/media/banner-1.1b15a7d46d656a0f692a.png",
-    "static/media/banner-3.png": "/Abdelrahmans00/CRUDReact.git/static/media/banner-3.8ec3512c82cab58d32a2.png",
-    "static/media/banner-2.png": "/Abdelrahmans00/CRUDReact.git/static/media/banner-2.68c35b1137b700b2aa97.png",
-    "static/media/grid-three-2.png": "/Abdelrahmans00/CRUDReact.git/static/media/grid-three-2.49ddd045ac4b97fe65ab.png",
-    "static/media/grid-three-1.png": "/Abdelrahmans00/CRUDReact.git/static/media/grid-three-1.1e71d175c1172cc85971.png",
-    "static/media/grid-three-3.png": "/Abdelrahmans00/CRUDReact.git/static/media/grid-three-3.3699a1315bd160936859.png",
-    "index.html": "/Abdelrahmans00/CRUDReact.git/index.html",
-    "main.659ca188.css.map": "/Abdelrahmans00/CRUDReact.git/static/css/main.659ca188.css.map",
-    "main.15980a15.js.map": "/Abdelrahmans00/CRUDReact.git/static/js/main.15980a15.js.map",
-    "488.2a760981.chunk.js.map": "/Abdelrahmans00/CRUDReact.git/static/js/488.2a760981.chunk.js.map"
+    "main.css": "/CRUDReact/static/css/main.d5cf3619.css",
+    "main.js": "/CRUDReact/static/js/main.135bc428.js",
+    "static/js/488.2a760981.chunk.js": "/CRUDReact/static/js/488.2a760981.chunk.js",
+    "static/media/andres-jasso-PqbL_mxmaUE-unsplash.jpg": "/CRUDReact/static/media/andres-jasso-PqbL_mxmaUE-unsplash.525c2379a1e0f669b152.jpg",
+    "static/media/mohammad-metri-E-0ON3VGrBc-unsplash.jpg": "/CRUDReact/static/media/mohammad-metri-E-0ON3VGrBc-unsplash.60b6a209f60f7d207cb4.jpg",
+    "static/media/Screenshot 2024-12-26 180221.png": "/CRUDReact/static/media/Screenshot 2024-12-26 180221.23f5dd290d57c33c7fb6.png",
+    "static/media/banner-1.png": "/CRUDReact/static/media/banner-1.1b15a7d46d656a0f692a.png",
+    "static/media/banner-3.png": "/CRUDReact/static/media/banner-3.8ec3512c82cab58d32a2.png",
+    "static/media/banner-2.png": "/CRUDReact/static/media/banner-2.68c35b1137b700b2aa97.png",
+    "static/media/grid-three-2.png": "/CRUDReact/static/media/grid-three-2.49ddd045ac4b97fe65ab.png",
+    "static/media/grid-three-1.png": "/CRUDReact/static/media/grid-three-1.1e71d175c1172cc85971.png",
+    "static/media/grid-three-3.png": "/CRUDReact/static/media/grid-three-3.3699a1315bd160936859.png",
+    "index.html": "/CRUDReact/index.html",
+    "main.d5cf3619.css.map": "/CRUDReact/static/css/main.d5cf3619.css.map",
+    "main.135bc428.js.map": "/CRUDReact/static/js/main.135bc428.js.map",
+    "488.2a760981.chunk.js.map": "/CRUDReact/static/js/488.2a760981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.659ca188.css",
-    "static/js/main.15980a15.js"
+    "static/css/main.d5cf3619.css",
+    "static/js/main.135bc428.js"
   ]
 }
