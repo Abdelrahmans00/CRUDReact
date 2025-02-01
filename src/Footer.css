@@ -1,0 +1,37 @@
+.Foot
+{
+    display: flex;
+    background-color: rgb(218, 247, 236);
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+.sectionOne {
+  
+    width: 30%;
+    display: block;
+}
+.sectionOne h4 {
+  
+    font-size: 15px;
+}
+.sectionTwo
+{
+  
+    width: 30%;
+}
+.sectionTwo h4 {
+  
+    font-size: 15px;
+}
+.sectionThree
+{
+
+    width: 30%;
+}
+.sectionThree h4 {
+  
+    font-size: 15px;
+}
