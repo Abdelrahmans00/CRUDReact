@@ -9,14 +9,14 @@ function Home() {
     const navigate = useNavigate();
   
     const handleRedirectBuy = () => {
-      navigate("/buy"); // Redirect to the About component
+      navigate("/buy"); 
     };
 
     return (
       <div className="home">
-        {/* Bootstrap Carousel */}
+    
         <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
-          {/* Carousel Indicators */}
+      
           <div className="carousel-indicators">
             <button
               type="button"
