@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CRUDReact/static/css/main.42687934.css",
-    "main.js": "/CRUDReact/static/js/main.045b5ad1.js",
+    "main.css": "/CRUDReact/static/css/main.c936102c.css",
+    "main.js": "/CRUDReact/static/js/main.a27bcf57.js",
     "static/js/488.2a760981.chunk.js": "/CRUDReact/static/js/488.2a760981.chunk.js",
     "static/media/andres-jasso-PqbL_mxmaUE-unsplash.jpg": "/CRUDReact/static/media/andres-jasso-PqbL_mxmaUE-unsplash.525c2379a1e0f669b152.jpg",
     "static/media/mohammad-metri-E-0ON3VGrBc-unsplash.jpg": "/CRUDReact/static/media/mohammad-metri-E-0ON3VGrBc-unsplash.60b6a209f60f7d207cb4.jpg",
@@ -13,12 +13,12 @@
     "static/media/grid-three-1.png": "/CRUDReact/static/media/grid-three-1.1e71d175c1172cc85971.png",
     "static/media/grid-three-3.png": "/CRUDReact/static/media/grid-three-3.3699a1315bd160936859.png",
     "index.html": "/CRUDReact/index.html",
-    "main.42687934.css.map": "/CRUDReact/static/css/main.42687934.css.map",
-    "main.045b5ad1.js.map": "/CRUDReact/static/js/main.045b5ad1.js.map",
+    "main.c936102c.css.map": "/CRUDReact/static/css/main.c936102c.css.map",
+    "main.a27bcf57.js.map": "/CRUDReact/static/js/main.a27bcf57.js.map",
     "488.2a760981.chunk.js.map": "/CRUDReact/static/js/488.2a760981.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42687934.css",
-    "static/js/main.045b5ad1.js"
+    "static/css/main.c936102c.css",
+    "static/js/main.a27bcf57.js"
   ]
 }
