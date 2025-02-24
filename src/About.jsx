@@ -10,7 +10,7 @@ export default function About() {
   const navigate = useNavigate();
     
       const handleRedirectBuy = () => {
-        navigate("/Buy"); // Redirect to the About component
+        navigate("/Buy"); 
       };
   return (
     <div>

@@ -1,37 +1,41 @@
-.Foot
-{
+.Foot {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
     background-color: rgb(218, 247, 236);
     width: 100%;
     align-items: center;
     text-align: center;
-    margin-top: 50px;
-    padding-top: 50px;
+    margin-top: 50px; /* Ensures it sticks to the bottom */
+    padding: 50px 20px;
+    position: relative;
+    bottom: 0;
 }
-.sectionOne {
-  
-    width: 30%;
-    display: block;
-}
-.sectionOne h4 {
-  
-    font-size: 15px;
-}
-.sectionTwo
-{
-  
-    width: 30%;
-}
-.sectionTwo h4 {
-  
-    font-size: 15px;
-}
-.sectionThree
-{
 
-    width: 30%;
+.sectionOne, .sectionTwo, .sectionThree {
+    flex: 1;
+    min-width: 250px; /* Ensures it doesn't collapse on smaller screens */
+    margin-bottom: 20px;
 }
-.sectionThree h4 {
-  
+
+.sectionOne img {
+    max-width: 100px; /* Adjust the logo size */
+    margin-bottom: 15px;
+}
+
+h4 {
     font-size: 15px;
+    margin: 5px 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .Foot {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .sectionOne, .sectionTwo, .sectionThree {
+        width: 100%;
+    }
 }

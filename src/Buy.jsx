@@ -1,7 +1,8 @@
-import React from "react";
-import './Buy.css'
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import "./Buy.css";
 
-function Buy({ products }) {
+export default function Buy({ products, onAddToCart }) {
   return (
     <div className="buySection container mt-4">
       <h2 className="text-center mb-4">Available Products</h2>
@@ -21,10 +22,15 @@ function Buy({ products }) {
                   <div className="text-center p-4">No image available</div>
                 )}
                 <div className="card-body">
-                  <h5 className="card-title">{product.productName || "No Product Name"}</h5>
-                  <p className="card-text">Quantity: {product.quantity || "N/A"}</p>
-                  <p className="card-text">Price: ${product.price || "N/A"}</p>
-                  <button className="btn btn-success">Add to cart</button>
+                  <h5 className="card-title">{product.productName}</h5>
+                  <p className="card-text">Quantity: {product.quantity}</p>
+                  <p className="card-text">Price: ${product.price}</p>
+                  <button className="btn btn-success" onClick={() => onAddToCart(product)}>
+                    Add to Cart
+                  </button>
+                  <Link to="/cart" className="btn btn-primary ms-2">
+                    View Cart
+                  </Link>
                 </div>
               </div>
             </div>
@@ -36,5 +42,3 @@ function Buy({ products }) {
     </div>
   );
 }
-
-export default Buy;
